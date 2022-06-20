@@ -4032,10 +4032,9 @@ footer .logo {
 }
 
 #main > .posts > article {
-  border-color: #eeeeee;
-  border-left-width: 2px;
-  border-style: solid;
-  border-top-width: 2px;
+  border: #eeeeee solid 1px;
+  border-left-width: 1px;
+  border-top-width: 1px;
   text-align: center;
 }
 
